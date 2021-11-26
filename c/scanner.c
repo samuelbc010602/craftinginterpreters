@@ -30,6 +30,7 @@ static bool isAlpha(char c) {
 static bool isDigit(char c) {
   return c >= '0' && c <= '9';
 }
+
 //< is-digit
 //> is-at-end
 static bool isAtEnd() {
